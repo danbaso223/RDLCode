@@ -1,0 +1,7 @@
+: RUDAMENTARY DAN LANGUAGE
+: make code where the result is 18 and the ram is 24
+add 9 9
+ram
+add 6
+acc
+test 24
