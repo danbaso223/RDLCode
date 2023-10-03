@@ -16,3 +16,7 @@ A simple programming language parsed and compiled by java.
 - input - Asks user for input
 - sav - Saves math result to RAM
 - acc - Adds math result to RAM
+## Building a program
+To build a program start wit
+## How to compile
+Run "java RDLcompile <filename>.dco"
